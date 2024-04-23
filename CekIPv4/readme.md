@@ -11,6 +11,6 @@
   Kelas default dari IP Address tersebut adalah kelas C.
 
 Untuk menjalankan program dapat menggunakan perintah berikut
-```
+```bash
 python app.py
 ```
